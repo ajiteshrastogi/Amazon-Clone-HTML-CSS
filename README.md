@@ -13,7 +13,7 @@ A professional implementation of Amazon.com's homepage, built with HTML5 and CSS
 ### Installation & Running the Project
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Amazon-Clone-HTML-CSS.git
+   git clone https://github.com/ajiteshrastogi/Amazon-Clone-HTML-CSS.git
    ```
 
 2. **Navigate to Project Directory**
