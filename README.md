@@ -1,8 +1,54 @@
-# Amazon Clone - Professional Frontend Implementation
+# Amazon Clone - HTML & CSS Project
 
 ## Project Overview
-A professional implementation of Amazon.com's homepage, built with HTML5 and CSS3. This project demonstrates strong frontend development skills in creating a responsive and interactive e-commerce interface.
+A responsive implementation of Amazon.com's homepage using HTML5 and CSS3. This project demonstrates frontend development skills in creating an interactive e-commerce interface.
 
+### What This Project Includes
+- Complete Amazon homepage layout and design
+- Responsive navigation with search functionality
+- Product showcase sections with grid layouts
+- Interactive elements and hover effects
+- Mobile-friendly design implementation
+- Cross-browser compatibility
+
+### Main Components
+1. **Header Section**
+   - Amazon logo with hover effect
+   - Location selector
+   - Search bar with dropdown
+   - Language selector
+   - Account & Lists
+   - Shopping cart
+
+2. **Navigation Panel**
+   - All categories menu
+   - Today's Deals
+   - Customer Service
+   - Registry
+   - Gift Cards
+   - Sell section
+
+3. **Product Sections**
+   - Gaming accessories
+   - Home essentials
+   - Fashion deals
+   - Kitchen products
+   - Home decor items
+   - Health & Beauty products
+
+4. **Special Features**
+   - Image slider with navigation
+   - Scrollable product sections
+   - Dynamic product grids
+   - Responsive image handling
+   - Interactive UI elements
+
+### Project Goals
+- Create a pixel-perfect clone of Amazon's homepage
+- Implement responsive design principles
+- Demonstrate CSS layout techniques
+- Showcase interactive UI elements
+- Maintain clean and organized code structure
 ## Getting Started
 
 ### Prerequisites
