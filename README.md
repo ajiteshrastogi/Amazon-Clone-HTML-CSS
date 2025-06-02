@@ -89,7 +89,7 @@ A responsive implementation of Amazon.com's homepage using HTML5 and CSS3. This 
    - Click Settings > Pages
    - Select 'main' branch as source
    - Click Save
-   - Your site will be published at `https://yourusername.github.io/Amazon-Clone-HTML-CSS`
+   - Your site will be published at `git clone https://github.com/ajiteshrastogi/Amazon-Clone-HTML-CSS.git`
 
 ## Key Features
 
